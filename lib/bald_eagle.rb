@@ -1,0 +1,2 @@
+class BaldEagle
+end
