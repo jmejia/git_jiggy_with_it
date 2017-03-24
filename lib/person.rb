@@ -7,6 +7,6 @@ class Person
   end
 
   def add_pet(pet)
+    pets << pet
   end
 end
-
