@@ -1,7 +1,7 @@
 class Person
   attr_reader :name, :pets
 
-  def initialize(name = "Lauren")
+  def initialize(name = "")
     @name = name
     @pets = []
   end
